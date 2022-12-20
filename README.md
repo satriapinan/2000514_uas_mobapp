@@ -1,1 +1,4 @@
-# 2000514_uas_mobapp
+# UAS MOBILE APPLICATION
+
+NIM  : 2000514
+Nama : Satria Pinandita Abyatarsyah
